@@ -38,12 +38,6 @@
 </p>
 
 ---
-## 🕹️ GitHub Contribution Snake Game  
-
-![GitHub Snake Light](https://raw.githubusercontent.com/developer-biswajit05/developer-biswajit05/output/github-contribution-grid-snake.svg#gh-light-mode-only)  
-![GitHub Snake Dark](https://raw.githubusercontent.com/developer-biswajit05/developer-biswajit05/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
----
 ## 📫 Contact Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:biswajitofficial.in@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+918695101391)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biswajit-mula-raja05/)  
 
