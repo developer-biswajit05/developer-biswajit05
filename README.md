@@ -8,7 +8,7 @@
 
 👨‍💻 Aspiring **MERN-Stack Developer** & **Full-Time Freelancer**<br>
 🎯 Passionate about building scalable and efficient web applications<br>
-🚀 Co-Founder of **[Biswajit's Coding School](#)**, mentoring aspiring developers<br>
+🚀 Co-Founder of **[Biswajit's Coding School]([#](https://youtube.com/@biswajitscodingschool?si=ms3dvL-64U70VfhB))**, mentoring aspiring developers<br>
 📚 Constantly learning and sharing knowledge in **HTML, CSS, JavaScript, React, Node.js, MongoDB & SQL**<br>
 🎓 **Vidyasagar University** alumnus<br>
 
