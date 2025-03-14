@@ -1,6 +1,6 @@
 ### Hi there, I'm Biswajit Mula! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=600&lines=Aspiring+MERN-Stack+Developer;Full-Time+Freelancer;Co-Founder+of+Biswajit's+Coding+School;Learning+In+Public...)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=600&lines=Aspiring+MERN-Stack+Developer;Full-Time+Freelancer;Co-Founder+of+Biswajit's+Coding+School)
 
 ---
 
