@@ -13,12 +13,13 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
-      
+
       - name: Generate Snake Animation
         uses: Platane/snk@master
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: dist/github-contribution-grid-snake.svg
+          github_user_name: developer-biswajit05  # Replaced with your username
+          svg_out_path: dist/github-contribution-grid-snake.svg
+          gif_out_path: dist/github-contribution-grid-snake.gif  # Generates GIF (optional)
 
       - name: Push Snake Game to output branch
         uses: crazy-max/ghaction-github-pages@v3
